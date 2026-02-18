@@ -3,3 +3,6 @@
 
 # Java compiled artifacts
 *.class
+
+# insturctions
+.github/instructions/java-tutoring.instructions.md
