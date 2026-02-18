@@ -1,0 +1,5 @@
+# Instructor-only answer keys
+**/Answer_Keys/
+
+# Java compiled artifacts
+*.class
